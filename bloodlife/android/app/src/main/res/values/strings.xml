@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">bloodlife</string>
+    <string name="facebook_app_id">795390861289840</string>
+    <string name="fb_login_protocol_scheme">fb795390861289840</string>
+</resources>
